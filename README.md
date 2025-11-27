@@ -23,3 +23,9 @@ Steps
 git clone <https://github.com/Vivan08/computer_science_project_4/>  
 cd number-guessing-game  
 python main.py  
+  
+Game Output
+
+## 📸 Output Screenshot
+![Game Output](screenshots/output.png)
+
