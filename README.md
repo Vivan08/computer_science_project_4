@@ -27,5 +27,5 @@ python main.py
 Game Output
 
 ## 📸 Output Screenshot
-![Game Output](screenshots/output.png)
+![Game Output](screenshots/Output.png)
 
